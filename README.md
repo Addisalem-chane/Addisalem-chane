@@ -36,6 +36,8 @@ Feel free to check out my repositories and connect with me!
 
 - **[Netflix Clone](https://Addisalem-chane.github.io/Netflix-Clone-2025)**  
   A responsive Netflix UI clone showcasing front-end design skills and attention to detail.
+ - **[amazone-clone].(https://addisalem-chane.github.io/amazon-clone/)**
+   A responsive Amazon-clone showcasing front-end design skills and attention to detail.
 
 ---
 
